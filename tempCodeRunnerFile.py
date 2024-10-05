@@ -1,0 +1,2 @@
+a tela
+WIDTH, HEIGHT = 800, 600
